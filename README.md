@@ -37,4 +37,11 @@ c. python is thop
 
 ## how to video link
 [click here to watch vakelsab trailer] (https://www.youtube.com/watch?v=P1xKV0Dmetg)
-# How to table
+## How to insert a table
+## My Profile
+|NAME|Email|Mobile|Profession|Location|
+|-----|-----|-----|----------|--------|
+|Surya|iamsurya93@gmail.com|8328401910|Python Trainer|KAKINADA
+
+
+
